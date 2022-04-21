@@ -46,7 +46,7 @@ Após análise do portfólio da House Rocket, partindo do planejamento descrito 
 
 Na venda dos imóveis foi possível indicar para a empresa qual o melhor período para venda. A resultado proposto se deu por meio da análise do comportamento dos preços pela área e pelas estações do ano, indicando qual o melhor período para venda.
 
-Seguindo a recomendação da análise, a empresa poderá ter uma receita nas vendas de $$5.428.758.735,92. As vendas podem trazer um lucro de $ 1.047.493.858,92 (23,91%) dos desembolsados na compra dos imóveis.
+Seguindo a recomendação da análise, a empresa poderá ter uma receita nas vendas de $$5.639.229.496,94. As vendas podem trazer um lucro de $ 1.257.965.619,94 (28,71%) dos desembolsados na compra dos imóveis.
 
 # Conclusão
 
