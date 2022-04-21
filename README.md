@@ -40,7 +40,7 @@ Não há uma diferença substância do preço dos imóveis mais antigos, compara
 Imóveis que tem características 'Waterfront' são 40% mais caros em comparação aqueles que não tem essa característica.
 Imóveis onde há porão são 15% mais caros que os que não tem. Essa característica pode ser aproveitada na compra dos imóveis onde não há porão, os reformando (construindo porão), para uma posterior venda com um valor maior.
 
-# Resultados Financeiros para o negócio
+# Resultados Financeiro para o negócio
 
 Após análise do portfólio da House Rocket, partindo do planejamento descrito no início deste documento, foi possível mapear os imóveis mais propensos para compra e posterior venda. No resultado proposto, a House Rocket deverá desembolsar um total de $ 4.381.264.877,00 na aquisição de 11.690 imóveis, de um total de 21.436, disponíveis no portfólio.
 
